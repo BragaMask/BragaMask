@@ -1,6 +1,11 @@
-# 👩🏻‍💻 Larissa Kich
+# Arthur Rodrigues Braga
 
-**`Desenvolvedora FullStack`**
+**`FrontEnd Developer`**
+
+- 📖 Learning FrontEnd Technologies and UI/UX Desing
+- 🎓 I'm studying at Instituto Federal de Rondônia - Campus Ji-Paraná.
+- 💻 IT Technician Course at IFRO
+- 📱 Front End Developer 
 
 Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
@@ -178,12 +183,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 
 
-## Hi, my name is Arthur Rodrigues Braga.
 
-- 📖 Learning about: C#, Flutter, Dart
-- 🎓 I'm studying at Instituto Federal de Rondônia - Campus Ji-Paraná.
-- 💻 IT Technician Course at IFRO
-- 📱  Flutter Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BragaMask&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
