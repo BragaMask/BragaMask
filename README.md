@@ -7,14 +7,10 @@
 - 💻 IT Technician Course at IFRO
 - 📱 Front End Developer 
 
-
 <div align="left">
   <a href="https://github.com/BragaMask">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
-</div>
-
-<div align="left">
   <a href="https://www.instagram.com/bragamaskara/?utm_source=qr&igsh=NTQ5YTk3MGd6dmJv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
