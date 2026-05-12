@@ -1,101 +1,74 @@
-# Arthur Rodrigues Braga
+👨‍💻 Arthur Rodrigues Braga
+Frontend Developer | UI/UX Enthusiast | Code Craftsmanship
+Desenvolvedor Frontend apaixonado por criar experiências digitais intuitivas e visualmente atrativas. Atualmente aprofundando conhecimentos em tecnologias modernas de frontend e design de interfaces, combinando código limpo com design pensado no usuário.
 
-**`FrontEnd Developer`**
+🎯 Sobre Mim
 
-- 📖 Learning FrontEnd Technologies and UI/UX Desing
-- 🎓 I'm studying at Instituto Federal de Rondônia - Campus Ji-Paraná.
-- 💻 IT Technician Course at IFRO
-- 📱 Front End Developer 
+🎓 Formação: Técnico em Informática - Instituto Federal de Rondônia (IFRO), Campus Ji-Paraná
+💼 Atuação: Frontend Development com foco em UX/UI
+🚀 Objetivo: Criar interfaces que não apenas funcionam, mas que encantam o usuário
+🌱 Aprendizado Contínuo: Sempre explorando novas tecnologias e melhores práticas
+📍 Localização: Ji-Paraná, Rondônia - Brasil
 
-<div align="left">
-  <a href="https://github.com/BragaMask">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="https://www.instagram.com/bragamaskara/?utm_source=qr&igsh=NTQ5YTk3MGd6dmJv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="arthurrodriguesestudante@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+
+🛠️ Tecnologias & Stack
+Frontend
+HTML5 | CSS3 | JavaScript (ES6+) | Git/GitHub
+Linguagens de Programação
+JavaScript | C# | MySQL
+Conceitos & Práticas
+Responsividade | Acessibilidade | Versionamento | UI/UX Design
+<div align="center">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" style="margin: 8px;"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" style="margin: 8px;"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" style="margin: 8px;"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" style="margin: 8px;"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" style="margin: 8px;"/>
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" style="margin: 8px;"/>
 </div>
 
+📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/BragaMask">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BragaMask&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/BragaMask">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaMask&theme=dark&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
+  </a>
+</div>
 
----
+🔗 Conecte-se Comigo
+<div align="center">
+  <a href="https://github.com/BragaMask" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/bragamaskara/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:arthurrodriguesestudante@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
 
-### 🤖 Linguagens e Tecnologias
+💡 Interesses
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+⚡ Otimização de performance web
+🎨 Design Responsivo e Acessibilidade
+🧩 Componentes reutilizáveis
+🔍 SEO e boas práticas
+📚 Compartilhamento de conhecimento
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
+📌 Destaques
+Aqui você encontrará meus principais projetos e contribuições. Fique à vontade para explorar meus repositórios e deixar suas sugestões!
 
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
+"Código não é apenas funcional, é uma forma de arte. Cada linha conta uma história."
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BragaMask&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaMask&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+Mostrar Imagem
+Desenvolvido com ❤️ por Arthur Rodrigues Braga
+</div>
