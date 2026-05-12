@@ -208,4 +208,3 @@ SYSTEM STATUS: OPERATIONAL
 
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:0B0F19,50:111827,100:1E293B"/>
