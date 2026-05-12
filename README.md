@@ -1,55 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=ARTHUR%20RODRIGUES%20BRAGA&fontAlign=50&fontAlignY=50&color=0:050816,25:071426,50:0A1F38,75:001F3F,100:00FF9C&fontColor=00FF9C&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=ARTHUR%20RODRIGUES%20BRAGA&fontSize=42&fontAlign=50&fontAlignY=50&color=0:0B0F19,50:111827,100:1E293B&fontColor=E2E8F0&animation=fadeIn"/>
 
 ```txt
-┌─────────────────────────────────────────────────────────────┐
-│  FRONTEND ENGINEER • UI SYSTEMS • DIGITAL ARCHITECTURE     │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  FRONTEND ENGINEER • UI ARCHITECTURE • DIGITAL SYSTEMS      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+NEURAL+INTERFACE...;%3E+LOADING+UI+ARCHITECTURE...;%3E+OPTIMIZING+USER+EXPERIENCE...;%3E+SYSTEM+ONLINE."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=94A3B8&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+INTERFACE+ARCHITECTURE...;%3E+OPTIMIZING+USER+EXPERIENCE...;%3E+SYSTEM+ONLINE."/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/INTERFACE-ENGINEERED-00C2FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SYSTEM-PERFORMANCE_FIRST-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-DIGITAL_ARCHITECTURE-FF007F?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-1E293B?style=for-the-badge&labelColor=0B0F19&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/FOCUS-UI_SYSTEMS-1E293B?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/MINDSET-PERFORMANCE_FIRST-1E293B?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/STYLE-MINIMAL_TECH-1E293B?style=for-the-badge&labelColor=0B0F19"/>
 
 </div>
 
 ---
 
-# `root@arthur:~# cat developer.profile`
+# `root@arthur:~# profile.info`
 
 <img align="right" width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BragaMask&theme=github_dark"/>
 
 ```yaml
-IDENTITY:
-  NAME: Arthur Rodrigues Braga
-  ROLE: Frontend Engineer
-  STATUS: ACTIVE
-  EDUCATION: IFRO • Técnico em Informática
-  LOCATION: Ji-Paraná • Rondônia
+NAME:
+  Arthur Rodrigues Braga
+
+ROLE:
+  Frontend Engineer
+
+EDUCATION:
+  IFRO • Técnico em Informática
 
 SPECIALIZATION:
-  - Scalable UI Systems
-  - Frontend Architecture
-  - Semantic Interfaces
+  - Interface Architecture
+  - UI/UX Systems
+  - Frontend Performance
   - Responsive Engineering
   - Accessibility-First Development
 
-MINDSET:
-  "Minimal interface.
-   Maximum intelligence."
+STATUS:
+  ACTIVE
 ```
 
 <br clear="right"/>
 
 ---
 
-# `root@arthur:~# load tech_stack`
+# `root@arthur:~# load stack.modules`
 
 <div align="center">
 
@@ -60,27 +61,27 @@ MINDSET:
 <br>
 
 ```txt
-╔══════════════════════════════════════════════════════════╗
-║                    FRONTEND MODULES                     ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  HTML5       → semantic structure engine                ║
-║  CSS3        → responsive visual systems                ║
-║  JavaScript  → dynamic interaction layer                ║
-║  React       → component architecture                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                     FRONTEND LAYER                        ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  HTML5       → semantic structure                         ║
+║  CSS3        → scalable styling systems                   ║
+║  JavaScript  → interaction & logic                        ║
+║  React       → component architecture                     ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
-╔══════════════════════════════════════════════════════════╗
-║                    SYSTEM MODULES                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  Git/GitHub  → distributed version control              ║
-║  MySQL       → relational persistence layer             ║
-║  C#          → backend logic foundation                 ║
-║  Figma       → interface prototyping                    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                      SYSTEM LAYER                         ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Git/GitHub  → version control ecosystem                  ║
+║  MySQL       → relational persistence                     ║
+║  C#          → backend logic fundamentals                 ║
+║  Figma       → interface prototyping                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -90,58 +91,52 @@ MINDSET:
 <div align="center">
 
 ```txt
-An interface should not simply exist.
+An interface should feel intentional.
 
-It must guide.
-It must react.
-It must communicate.
+Minimal in appearance.
+Precise in behavior.
+Consistent in structure.
 
-Every transition should feel intentional.
-Every spacing should carry structure.
-Every interaction should create clarity.
-
-Design is not decoration.
-Design is system behavior.
+Good design is invisible.
+The experience is what remains.
 ```
 
 </div>
 
 ---
 
-# `root@arthur:~# scan current_progress`
+# `root@arthur:~# current.progress`
 
 <table align="center">
 <tr>
 <td width="50%">
 
-## SYSTEM DEVELOPMENT
+## DEVELOPMENT
 
 ```bash
-[█████████████░░░░░] 72%
+[████████████░░░░░░] 70%
 
-> Building scalable interfaces
-> Creating reusable components
-> Optimizing frontend performance
-> Refining UI consistency
-> Improving accessibility standards
-> Designing immersive experiences
+> Scalable frontend systems
+> Interactive interfaces
+> Reusable component architecture
+> Accessibility improvements
+> Performance optimization
 ```
 
 </td>
 
 <td width="50%">
 
-## LEARNING PROTOCOL
+## LEARNING
 
 ```bash
-[█████████░░░░░░░░] 51%
+[█████████░░░░░░░░░] 52%
 
-> Advanced React architecture
-> State management systems
-> UI engineering patterns
+> Advanced React patterns
+> State management
+> UI engineering
 > Frontend optimization
-> Animation systems
-> Scalable application structure
+> System architecture
 ```
 
 </td>
@@ -150,53 +145,50 @@ Design is system behavior.
 
 ---
 
-# `root@arthur:~# monitor github.telemetry`
+# `root@arthur:~# github.analytics`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BragaMask&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&rank_icon=github&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BragaMask&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=E2E8F0&text_color=94A3B8&icon_color=CBD5E1&rank_icon=github&theme=transparent"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=BragaMask&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00C2FF&currStreakLabel=00FF9C"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=BragaMask&theme=dark&hide_border=true&background=0B0F19&ring=CBD5E1&fire=94A3B8&currStreakLabel=E2E8F0"/>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaMask&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9&theme=transparent&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaMask&layout=compact&hide_border=true&bg_color=0B0F19&title_color=E2E8F0&text_color=94A3B8&theme=transparent&langs_count=8"/>
 
 </div>
 
 ---
 
-# `root@arthur:~# deploy terminal.output`
+# `root@arthur:~# terminal.status`
 
 ```bash
-[BOOT_SEQUENCE]
+Loading interface systems .............. OK
+Optimizing visual consistency .......... OK
+Accessibility protocols ................ ENABLED
+Performance layer ...................... STABLE
+UI architecture ........................ ACTIVE
 
-Loading frontend architecture ............. OK
-Injecting UI systems ...................... OK
-Synchronizing component layers ............ OK
-Accessibility protocols ................... ENABLED
-Performance optimization .................. STABLE
-Visual consistency engine ................. ACTIVE
-
-STATUS: READY FOR DEPLOYMENT
+SYSTEM STATUS: OPERATIONAL
 ```
 
 ---
 
-# `root@arthur:~# establish network.connection`
+# `root@arthur:~# network.links`
 
 <div align="center">
 
 <a href="https://github.com/BragaMask">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
 </a>
 
 <a href="mailto:arthurrodriguesestudante@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00C2FF"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=E2E8F0"/>
 </a>
 
 <a href="https://www.instagram.com/bragamaskara/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=FF007F"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E2E8F0"/>
 </a>
 
 </div>
@@ -206,14 +198,13 @@ STATUS: READY FOR DEPLOYMENT
 <div align="center">
 
 ```txt
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║      "Frontend is not visual decoration.                ║
-║       Frontend is engineered experience."               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   "Frontend is engineered experience."                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,25:071426,50:0A1F38,75:001F3F,100:00FF9C"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:0B0F19,50:111827,100:1E293B"/>
 
 </div>
